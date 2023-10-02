@@ -1,5 +1,5 @@
 # Citibike-challenge
-[My Tablue Workbook](https://public.tableau.com/views/Citibike_16960652275300/StoryCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[My Tablue Workbook](https://public.tableau.com/shared/7WGBDW56N?:display_count=n&:origin=viz_share_link)
 # Citi Bike Analysis using Tableau
 
 ## Problem
