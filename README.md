@@ -4,7 +4,7 @@
 
 ## Problem
 
-[New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Citibike is the largest bike sharing program in the United States. This project involves generating regular reports for city officials looking to publicize and improve the city program. The data includes bike id's, rider types, dates, times, and station names. The data must be 
+[New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Citibike is the largest bike sharing program in the United States. This project involves generating regular reports for city officials looking to publicize and improve the city program. The data includes bike id's, rider types, dates, times, and station names. 
 
 Datasets: Bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
