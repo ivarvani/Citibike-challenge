@@ -14,11 +14,11 @@ Datsets used :  used the Jersey city datasests for the year 2020 to create analy
 
 **Design 2-5 visualization for City Officials and Answer the following Questions and explore the data for decision makers 
 
-1. What are the peak hours in which bikes are used ?
+1. What are the peak hours in which bikes are used in winter and summer?
 2. What are the top 10 stations in the city for starting a journey?
 3. What are the top 10 stations in the city for ending a journey?  
 4. What is the gender breakdown of active participants (Male v. Female)?
-4. How does the average trip duration change by age?
+4. How does the average trip duration change by month?
 5. Any additional findings. 
 
 **Advanced Option**
